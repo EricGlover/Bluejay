@@ -6,11 +6,11 @@ We used an agile development workflow, completing the core functionality of the 
 ### Heroku Deployment @
 http://classroom-bluejay.herokuapp.com/login
 
-###Technologies Used
+### Technologies Used
 MERN Stack: MongoDB, Express, React, Node.js
 WebSockets were used to provide real-time notifications
 
-###Team Members
+### Team Members
 Stephanie Baker
 Eric Glover
 Ian Halverson
