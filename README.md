@@ -16,4 +16,4 @@ Eric Glover
 Ian Halverson
 Andrew Senner 
 
-![A view showing a reward -'President for a Day!'- that a teacher can assign.](http://www.ericglover.me/assets/images/projects/Bluejay/rewardsView2.png "Rewards and things")
+![A view showing a reward -'President for a Day!'- that a teacher can assign.](http://www.ericglover.me/assets/images/projects/Bluejay/rewardsView2.png "The teacher's view of the app.")
