@@ -5,6 +5,10 @@ We used an agile development workflow, completing the core functionality of the 
 
 ### Heroku Deployment @
 http://classroom-bluejay.herokuapp.com/login
+feel free to login to the demo account
+
+email : ericglover@gmail.com
+password : foo
 
 ### Technologies Used
 MERN Stack: MongoDB, Express, React, Node.js
